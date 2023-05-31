@@ -1,17 +1,13 @@
 # Interpolation with Cubic Splines
 
-#### College Project - Make sure to read the PDF article "T4_Experimentando_con_Datos_Faltantes.pdf".
+#### College Project - Make sure to read the PDF article in "Extra_Stuff".
 
-<h3 align="center">Original</h3>
 <p align="center"> <img src = "/Extra_Stuff/1.png" width = 650> </p>
 
-<h3 align="center">Grayscale</h3>
 <p align="center"> <img src = "/Extra_Stuff/2.png" width = 650> </p>
 
-<h3 align="center">Losing Data</h3>
 <p align="center"> <img src = "/Extra_Stuff/3.png" width = 650> </p>
 
-<h3 align="center">Covering the lost data with 0s</h3>
 <p align="center"> <img src = "/Extra_Stuff/4.png" width = 650> </p>
 
 <h2 align="left">Recipe</h2>
